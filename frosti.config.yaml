@@ -57,7 +57,7 @@ site:
       target: _self
     - id: contact
       text: 联系
-      href: "mailto:contact.gjclovesyourself@163.com"
+      href: "mailto:gjclovesyourself@163.com"
       title: 为他充电
       target: _blank # 在新标签页打开
       svg: "material-symbols:attach-email-outline-rounded"
