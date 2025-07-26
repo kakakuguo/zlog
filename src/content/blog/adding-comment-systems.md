@@ -10,7 +10,6 @@ tags:
   - Comments
   - Waline
   - Astro
-  - Kaku
 ---
 
 ## Introduction
